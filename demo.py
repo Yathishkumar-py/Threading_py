@@ -8,7 +8,7 @@ class Points:
         self.y = 0
 
     def replace(self):
-        self.x =self.y
+        self.x = self.y
 
 
 if __name__ == '__main__':
