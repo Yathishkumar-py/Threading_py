@@ -10,7 +10,6 @@ class Points:
     def replace(self):
         self.x = self.y
 
-
 if __name__ == '__main__':
     pointer = Points()
     pointer.x = 10
